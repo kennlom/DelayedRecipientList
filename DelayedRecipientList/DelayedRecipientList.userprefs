@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{88AD7A0E-1B21-43BB-A613-5F4F253EE43A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DelayedRecipientListUI.ascx.cs">
+    <Files>
+      <File FileName="DelayedDownloadRecipientList.cs" Line="87" Column="63" />
+      <File FileName="DelayedRecipientListConfiguration.ascx" Line="8" Column="5" />
+      <File FileName="DelayedRecipientListConfiguration.ascx.designer.cs" Line="23" Column="1" />
+      <File FileName="DelayedRecipientListConfiguration.ascx.cs" Line="26" Column="57" />
+      <File FileName="DelayedRecipientListUI.ascx" Line="38" Column="1" />
+      <File FileName="DelayedRecipientListUI.ascx.cs" Line="140" Column="29" />
+      <File FileName="DelayedRecipientListUI.ascx.designer.cs" Line="23" Column="1" />
+      <File FileName="ConfigUtils.cs" Line="69" Column="1" />
+      <File FileName="packages/RestSharp.105.2.3/readme.txt" Line="21" Column="1" />
+      <File FileName="DBUtils.cs" Line="65" Column="21" />
+      <File FileName="ListDataConfig.cs" Line="19" Column="34" />
+      <File FileName="ListDataResponse.cs" Line="21" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DelayedRecipientList PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/DelayedRecipientListUI.ascx" hash="fffffff42d61645e" filehash="ffffce89110deb8c" flags="110000" assembly="App_Web_delayedrecipientlistui.ascx.cdcab7d2" type="ASP.delayedrecipientlistui_ascx">
+    <filedeps>
+        <filedep name="/DelayedRecipientListUI.ascx" />
+    </filedeps>
+</preserve>
